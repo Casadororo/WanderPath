@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JnYKamZMB69+C6lJE6oPrksG0bKWwvqlx9YHtKED/TjLJclXPkpZPZkGsBziq5/+dW7218mzdT7Z4AJP4WTg+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\WanderPath\\WanderPath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

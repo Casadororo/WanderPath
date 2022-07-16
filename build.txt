@@ -1,0 +1,3 @@
+displayName = Wander Path
+author = Casadororo
+version = 0.1
